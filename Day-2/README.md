@@ -38,3 +38,4 @@ To develop an interactive AI chatbot for Sweet Crumbs Home Bakery using the Groq
 
 ## Learning Outcome
 Understanding how to build an interactive AI chatbot using system prompts, conversation memory, Python functions and exception handling.
+
