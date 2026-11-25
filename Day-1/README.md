@@ -33,3 +33,4 @@ Home Bakery using the Groq API.
 ## Learning Outcome
 Understanding how to connect Python with an LLM
 through an API and generate responses using prompts.
+
